@@ -1,1 +1,35 @@
-ECHO is on.
+body{
+	margin: 0;
+	background-color: #545454;
+	color: #ffffff;
+}
+.nav-bar{
+	color: black;
+	background-color: red;
+	height: 3rem;
+}
+.nav-bar ul{
+	list-style-type: none;
+	margin: 0;
+	padding: .7rem;
+	width: 100%;
+	
+}
+.nav-bar li{
+	font-size: 1.3rem;
+	font-style: italic;
+	float: left;
+	background-color: red;
+	width: 16.66%;
+	text-align: center;
+	display: block;
+}
+h1.home-main-heading{
+	background-color: black;
+	text-align: center;
+	color: red;
+}
+
+.body-under-nav-bar{
+	
+}
